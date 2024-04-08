@@ -1,0 +1,166 @@
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\InventoryERP.dll.config
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\InventoryERP.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\InventoryERP.pdb
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\csc.exe
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\csc.exe.config
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\csc.rsp
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\csi.exe
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\csi.exe.config
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\csi.rsp
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.AppContext.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Console.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.IO.Compression.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Net.Http.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.ValueTuple.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\vbc.exe
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\vbc.exe.config
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\vbc.rsp
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\Antlr3.Runtime.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\Newtonsoft.Json.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.Helpers.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.Mvc.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.Optimization.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.Razor.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.WebPages.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.WebPages.Razor.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\WebGrease.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.Helpers.xml
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.Mvc.xml
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.Optimization.xml
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.Razor.xml
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.WebPages.xml
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\System.Web.WebPages.Razor.xml
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\Newtonsoft.Json.xml
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\Antlr3.Runtime.pdb
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\obj\Debug\InventoryERP.csproj.AssemblyReference.cache
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\obj\Debug\InventoryERP.csproj.CoreCompileInputs.cache
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\obj\Debug\InventoryERP.csproj.CopyComplete
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\obj\Debug\InventoryERP.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\obj\Debug\InventoryERP.pdb
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\EntityFramework.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\EntityFramework.SqlServer.dll
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\EntityFramework.xml
+C:\Users\nik.adhaduk\source\repos\InventoryERP\InventoryERP\bin\EntityFramework.SqlServer.xml
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\InventoryERP.dll.config
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\InventoryERP.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\InventoryERP.pdb
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\csc.exe
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\csc.exe.config
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\csc.rsp
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\csi.exe
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\csi.exe.config
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\csi.rsp
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.AppContext.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Collections.Immutable.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Console.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Globalization.Calendars.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.IO.Compression.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.IO.FileSystem.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Net.Http.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Net.Sockets.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.ValueTuple.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Xml.XPath.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\vbc.exe
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\vbc.exe.config
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\vbc.rsp
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\VBCSCompiler.exe
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\roslyn\VBCSCompiler.exe.config
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\Antlr3.Runtime.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\EntityFramework.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\EntityFramework.SqlServer.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\Microsoft.Web.Infrastructure.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\Newtonsoft.Json.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.Helpers.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.Mvc.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.Optimization.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.Razor.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.WebPages.Deployment.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.WebPages.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.WebPages.Razor.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\WebGrease.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\EntityFramework.xml
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\EntityFramework.SqlServer.xml
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.Helpers.xml
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.Mvc.xml
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.Optimization.xml
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.Razor.xml
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.WebPages.xml
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.WebPages.Deployment.xml
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\System.Web.WebPages.Razor.xml
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\Newtonsoft.Json.xml
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\Antlr3.Runtime.pdb
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\obj\Debug\InventoryERP.csproj.AssemblyReference.cache
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\obj\Debug\InventoryERP.csproj.CoreCompileInputs.cache
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\obj\Debug\InventoryERP.csproj.CopyComplete
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\obj\Debug\InventoryERP.dll
+D:\Git hub\Inventory_Entity\InventoryERP\InventoryERP\obj\Debug\InventoryERP.pdb

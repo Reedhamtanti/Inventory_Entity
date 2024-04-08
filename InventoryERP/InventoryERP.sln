@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryERP", "InventoryERP\InventoryERP.csproj", "{B7124894-AB14-4ABD-9E5B-26A305861B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryERP_EFCodeFirst", "InventoryERP_EFCodeFirst\InventoryERP_EFCodeFirst.csproj", "{9F36A754-F674-4A4D-8A36-6422A3F910A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7124894-AB14-4ABD-9E5B-26A305861B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7124894-AB14-4ABD-9E5B-26A305861B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7124894-AB14-4ABD-9E5B-26A305861B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7124894-AB14-4ABD-9E5B-26A305861B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F36A754-F674-4A4D-8A36-6422A3F910A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F36A754-F674-4A4D-8A36-6422A3F910A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F36A754-F674-4A4D-8A36-6422A3F910A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F36A754-F674-4A4D-8A36-6422A3F910A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938CEBAF-6B05-49B3-B2C0-5577CE5E8787}
+	EndGlobalSection
+EndGlobal
